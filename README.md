@@ -2,20 +2,26 @@
 
 React Todo list application 
 
+### Demo
+https://synz77.github.io/app/
 
 ### Installing
 
 
 
 ```
-git clone https://github.com/synz77/app-todo.git
+git clone https://github.com/synz77/app.git
+```
+
+```
+cd app
 ```
 
 ```
 npm install
 ```
 
-## Running the tests
+## Running
 
 ```
 npm start
