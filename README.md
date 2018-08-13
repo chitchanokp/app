@@ -3,7 +3,7 @@
 React Todo list application 
 
 ### Demo
-https://synz77.github.io/app/
+https://chitchanokp.github.io/app/
 
 ### Installing
 
