@@ -10,7 +10,7 @@ https://chitchanokp.github.io/app/
 
 
 ```
-git clone https://github.com/synz77/app.git
+git clone https://github.com/chitchanokp/app.git
 ```
 
 ```
